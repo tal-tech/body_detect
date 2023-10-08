@@ -1,0 +1,2 @@
+..\..\data\models\det_body_ssd_v1.0.1.bin ..\..\data\images\testing\ ..\..\data\config.ini
+

@@ -1,0 +1,6 @@
+JPEGImages/165_0.jpg Annotations/
+JPEGImages/165_1.jpg Annotations/
+JPEGImages/165_2.jpg Annotations/
+JPEGImages/165_3.jpg Annotations/
+JPEGImages/165_4.jpg Annotations/
+JPEGImages/165_5.jpg Annotations/

@@ -1,0 +1,15 @@
+ai_model/det_body_ssd_v1.0.3.bin
+det_body_ssd/data/models/det_body_ssd_v1.0.3.zip
+det_body_ssd/data/models/det_body_ssd_v1.0.3.bin
+third_party/opencv/lib/libopencv_cudafilters.so.3.4.5
+third_party/opencv/lib/libopencv_cudaarithm.so.3.4
+third_party/opencv/lib/libopencv_cudaoptflow.so.3.4.5
+third_party/opencv/lib/libopencv_cudawarping.so.3.4
+third_party/opencv/lib/libopencv_cudaarithm.so
+third_party/opencv/lib/libopencv_cudawarping.so
+third_party/opencv/lib/libopencv_cudaarithm.so.3.4.5
+third_party/opencv/lib/libopencv_cudafilters.so.3.4
+third_party/opencv/lib/libopencv_cudawarping.so.3.4.5
+third_party/opencv/lib/libopencv_cudaoptflow.so.3.4
+third_party/opencv/lib/libopencv_cudaoptflow.so
+third_party/opencv/lib/libopencv_cudafilters.so
